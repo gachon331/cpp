@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  8 22:41:07 2021
 
-@author: ng110
-"""
 
 from openpyxl import Workbook
 wb = Workbook()
